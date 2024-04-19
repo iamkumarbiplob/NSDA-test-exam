@@ -1,0 +1,26 @@
+.logo-size {
+    width: 50px !important;
+    height: 50px !important;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.custom-hover:hover {
+    color: blueviolet;
+}
+
+.items-height {
+    height: 400px;
+}
+
+.border-bg-color-custom {
+    background-color: #e8e8e8;
+}
+
+.contact-bg-custom {
+    background-color: #edf7f0;
+}
